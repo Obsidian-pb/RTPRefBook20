@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Предисловие](README.md)
+* [Перечень сокращений и обозначений](perechen-sokrashenii-i-oboznachenii.md)
+* [Используемые термины и определения](ispolzuemye-terminy-i-opredeleniya.md)
 
 ## ГЛАВА 1.  ПОЖАР И ЕГО РАЗВИТИЕ
 
